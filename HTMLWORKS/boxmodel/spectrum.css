@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: red;
+    font-family: 'Anton', sans-serif;
+font-family: 'Barlow Semi Condensed', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+}
+#tbl{
+    margin-left: 25%;
+}
+td{
+    height:300px;
+    width: 150px;
+    border-style: solid;
+    border-color: white;
+}
+#one{
+    background-color: red;
+}
+#two{
+    background-color: rosybrown;
+}
+#three{
+    background-color: sienna;
+}
+#four{
+    background-color: snow;
+}
+#five{
+    background-color: tomato;
+}

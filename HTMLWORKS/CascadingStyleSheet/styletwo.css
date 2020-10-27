@@ -1,0 +1,13 @@
+body{
+    background-color: paleturquoise;
+}
+h3{
+    color: red;
+}
+.one{
+   color: seagreen; 
+}
+#lione{
+    border-style: dotted;
+    border-color: springgreen;
+}

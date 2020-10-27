@@ -1,0 +1,21 @@
+#top{
+    width: 50%;
+    color: red;
+    border-style: dotted;
+    border-color: royalblue;
+    margin-left: 20%;
+    padding-left: 25%;
+    margin-top: 20px;
+}
+#bottom{
+    width: 50%;
+    color: royalblue;
+    border-style: dotted;
+    border-color: seagreen;
+    margin-top: 30%;
+    margin-left: 20%;
+    padding-left: 25%;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+}

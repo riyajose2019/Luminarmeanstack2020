@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Semi+Condensed:wght@100&family=Josefin+Sans&display=swap" rel="stylesheet"">
+    </head>
+    <body>
+        <h1>Login here</h1>
+
+
+        express:<input type="text" id="txt">
+        <input type="button" value="calculate" onClick="calc()">
+    </body>
+    <script>
+
+
+
+         function calc(){
+
+            try{
+            var data=document.querySelector("#txt").value; 
+            var res=eval(data)
+           console.log(res);
+            }
+            catch(err){
+          alert("some error occured");
+
+         }
+        }
+
+
+    </script>
+</html>

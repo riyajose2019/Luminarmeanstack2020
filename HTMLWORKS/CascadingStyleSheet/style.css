@@ -1,0 +1,32 @@
+h1{
+    color:red;
+}
+body{
+    background-color: grey;
+}
+h2{
+    color: green;
+}
+#one{
+    color: blue
+    ;
+}
+div{
+    border-style: dashed;
+    border-color: red;
+}
+#second{
+    border-style: dotted;
+    border-color: indigo;
+}
+.third{
+    border-style: double;
+    border-color: lawngreen;
+    background-color: mediumpurple;
+}
+li{
+    color: maroon;
+}
+#lione{
+    color: mediumvioletred;
+}
